@@ -79,7 +79,6 @@
         ?>
     </section>
 </main>
-
 <footer>
     <form method="POST">
         <input type="text" name="id">
